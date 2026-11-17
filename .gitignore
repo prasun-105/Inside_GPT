@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+more.txt
+checkpoints/*
+!checkpoints/shakespeare-gpt.pt
+!checkpoints/shakespeare-gpt.json
+train.log
